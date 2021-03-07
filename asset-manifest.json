@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/slot-booking-app/static/css/main.7890870f.chunk.css",
+    "main.js": "/slot-booking-app/static/js/main.3a102450.chunk.js",
+    "main.js.map": "/slot-booking-app/static/js/main.3a102450.chunk.js.map",
+    "runtime-main.js": "/slot-booking-app/static/js/runtime-main.5ba948cf.js",
+    "runtime-main.js.map": "/slot-booking-app/static/js/runtime-main.5ba948cf.js.map",
+    "static/css/2.f99c04d8.chunk.css": "/slot-booking-app/static/css/2.f99c04d8.chunk.css",
+    "static/js/2.a4857d10.chunk.js": "/slot-booking-app/static/js/2.a4857d10.chunk.js",
+    "static/js/2.a4857d10.chunk.js.map": "/slot-booking-app/static/js/2.a4857d10.chunk.js.map",
+    "static/js/3.1e94d464.chunk.js": "/slot-booking-app/static/js/3.1e94d464.chunk.js",
+    "static/js/3.1e94d464.chunk.js.map": "/slot-booking-app/static/js/3.1e94d464.chunk.js.map",
+    "index.html": "/slot-booking-app/index.html",
+    "static/css/2.f99c04d8.chunk.css.map": "/slot-booking-app/static/css/2.f99c04d8.chunk.css.map",
+    "static/css/main.7890870f.chunk.css.map": "/slot-booking-app/static/css/main.7890870f.chunk.css.map",
+    "static/js/2.a4857d10.chunk.js.LICENSE.txt": "/slot-booking-app/static/js/2.a4857d10.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/slot-booking-app/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ba948cf.js",
+    "static/css/2.f99c04d8.chunk.css",
+    "static/js/2.a4857d10.chunk.js",
+    "static/css/main.7890870f.chunk.css",
+    "static/js/main.3a102450.chunk.js"
+  ]
+}
